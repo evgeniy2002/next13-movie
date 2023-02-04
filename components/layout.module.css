@@ -1,0 +1,14 @@
+.header{
+  display: flex;
+  align-items: center;
+  /* height: 70px; */
+  justify-content: space-between;
+  /* margin: 15px 0 25px 0; */
+}
+.nav a{
+  font-size: 21px;
+  margin:0 20px 0 0;
+}
+.nav a:last-of-type{
+  margin:0;
+}
